@@ -1,9 +1,11 @@
 body {
     background-color: lightgrey;
     color:black; 
+    margin-top:40px;
+    margin-left:40px;
 }
 
 h1 {
     text-align: center;
-    
+
 }
