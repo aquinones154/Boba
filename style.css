@@ -107,6 +107,10 @@
   .right::after {
     left: -16px;
   }
+
+  .right2::after {
+    left: -16px;
+  }
   
   /* The actual content */
   .content {
