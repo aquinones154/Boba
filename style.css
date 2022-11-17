@@ -48,7 +48,7 @@
     height: 25px;
     right: -17px;
     background-color: white;
-    border: 4px solid #B2AC88;
+    border: 4px solid #A9BD93;
     top: 15px;
     border-radius: 50%;
     z-index: 1;
@@ -155,7 +155,7 @@
 
   /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #B2AC88;
+  background-color: #A9BD93;
   overflow: hidden;
 }
 
@@ -177,6 +177,6 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: darkgrey;
   color: white;
 }
